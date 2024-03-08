@@ -1,0 +1,5 @@
+name: ReportSystem
+version: '${project.version}'
+main: com.solo.reportsystem.ReportSystem
+commands:
+  report:

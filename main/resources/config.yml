@@ -1,0 +1,11 @@
+database:
+  ip: ""
+  name: ""
+
+  user: ""
+  password: ""
+
+discord:
+  token: ""
+  guildId: ""
+  report_channel: ""
